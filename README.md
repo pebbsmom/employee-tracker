@@ -10,6 +10,13 @@ This is a command-line application that manages a company's employee database, u
 * [Questions](#questions)
 ## Installation
 1) Clone this repo onto your local computer using 'git clone'. 2)  Make sure to enter your database credentials in the .env file.--database name, user and password. 3) Make sure you install all the necessary dependencies by running 'npm i' in the terminal. 4) Create a new database and seed it by running 'npm run db'. 5) Run the application by typing 'npm start'. 6) Make a selection from the menu.
+
+
+
+
+https://github.com/user-attachments/assets/5edbbe4c-3bf6-40d1-83d5-b4cd2fd29280
+
+
 ## Usage
 In order to use this application, after typing 'npm start", make a selection from the menu.
 ## License
