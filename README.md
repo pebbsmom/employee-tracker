@@ -1,4 +1,4 @@
-# Project Title: Employee-Tracker![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Project Title: Employee-Tracker  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description 
 This is a command-line application that manages a company's employee database, using Node.js, Inquirer, and PostgreSQL.  It allows the user to view and manage the departments, roles, and employees in a company.
 ## Table of Contents
